@@ -54,8 +54,13 @@
 
 | Project | Tech Stack | Live Demo / Repository |
 |---------|------------|------------------------|
-| **[Project Name]** | Kotlin, Jetpack Compose, Retrofit | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/[repo-name]) |
-| **[Project Name]** | Java, Room, Firebase | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/[repo-name]) |
+| **[BloglyApp]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/BloglyApp) |
+| **[Championify]**  | [Demo](#) / [Repo]([https://github.com/Abanoub-Nagy/[repo-name](https://github.com/Abanoub-Nagy/Championify)]) |
+| **[CryptoTrackerApplication]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/CryptoTrackerApplication) |
+| **[DefineHub]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/DefineHub) |
+| **[yumhub]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/yumhub) |
+| **[IMovie]** | [Demo](#) / [Repo](https://github.com/RedVelvet-Team/IMovie) |
+| **[ClothingSuggesterApp]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/ClothingSuggesterApp) |
 
 
 ---
