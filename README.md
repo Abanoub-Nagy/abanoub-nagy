@@ -67,7 +67,7 @@
 ## 💻 Code Snippets
 Here’s a glimpse of my Kotlin code for functional programming, inspired by my [LinkedIn post](https://www.linkedin.com/in/abanoub-nagy/) on pure functions:
 
-```kotlin
+kotlin
 // Pure function for calculating clothing suggestion based on weather
 fun suggestClothing(temperature: Double, isRaining: Boolean): String {
     return when {
@@ -76,3 +76,41 @@ fun suggestClothing(temperature: Double, isRaining: Boolean): String {
         else -> "T-shirt and shorts${if (isRaining) " with a raincoat" else ""}"
     }
 }
+
+Check out my repositories for more clean, functional code! 🛠️
+
+💌 Let's Connect
+
+  
+  
+  
+  
+
+
+
+👨‍💻 Coding Stats
+
+  
+
+
+
+Replace [your-wakatime-id] with your WakaTime ID or remove this section if not applicable.
+
+
+🏆 Achievements
+
+🖋️ Co-authored an article on functional programming in Kotlin with the Cupcake Team, shared on LinkedIn.
+🌟 Contributed to open-source Android projects, focusing on clean code and modern architectures.
+💡 Built apps like ClothesSuggesterApp and PlanMate, showcasing expertise in Kotlin and Jetpack Compose.
+
+
+👀 Visitor Count
+
+  
+
+
+
+
+  Built with 💚 by Abanoub Nagy Azmy | Let's code the future together! 🚀
+
+```
