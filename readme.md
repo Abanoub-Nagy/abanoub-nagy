@@ -55,7 +55,7 @@
 | Project |Repository |
 |---------|------------------------|
 | **[BloglyApp]** | [Repo](https://github.com/Abanoub-Nagy/BloglyApp) |
-| **[Championify]**  |  [Repo]([https://github.com/Abanoub-Nagy/[repo-name](https://github.com/Abanoub-Nagy/Championify)]) |
+| **[Championify]**  |  [Repo]((https://github.com/Abanoub-Nagy/Championify)) |
 | **[CryptoTrackerApplication]** | [Repo](https://github.com/Abanoub-Nagy/CryptoTrackerApplication) |
 | **[DefineHub]** |[Repo](https://github.com/Abanoub-Nagy/DefineHub) |
 | **[yumhub]** | [Repo](https://github.com/Abanoub-Nagy/yumhub) |
