@@ -40,8 +40,6 @@
 </p>
 
 ---
-(https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
----
 
 ### 🌟 GitHub Highlights
 
@@ -54,15 +52,15 @@
 
 ### 🎯 Featured Projects
 
-| Project | Tech Stack | Live Demo / Repository |
-|---------|------------|------------------------|
-| **[BloglyApp]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/BloglyApp) |
-| **[Championify]**  | [Demo](#) / [Repo]([https://github.com/Abanoub-Nagy/[repo-name](https://github.com/Abanoub-Nagy/Championify)]) |
-| **[CryptoTrackerApplication]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/CryptoTrackerApplication) |
-| **[DefineHub]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/DefineHub) |
-| **[yumhub]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/yumhub) |
-| **[IMovie]** | [Demo](#) / [Repo](https://github.com/RedVelvet-Team/IMovie) |
-| **[ClothingSuggesterApp]** | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/ClothingSuggesterApp) |
+| Project |Repository |
+|---------|------------------------|
+| **[BloglyApp]** | [Repo](https://github.com/Abanoub-Nagy/BloglyApp) |
+| **[Championify]**  |  [Repo]([https://github.com/Abanoub-Nagy/[repo-name](https://github.com/Abanoub-Nagy/Championify)]) |
+| **[CryptoTrackerApplication]** | [Repo](https://github.com/Abanoub-Nagy/CryptoTrackerApplication) |
+| **[DefineHub]** |[Repo](https://github.com/Abanoub-Nagy/DefineHub) |
+| **[yumhub]** | [Repo](https://github.com/Abanoub-Nagy/yumhub) |
+| **[IMovie]** | [Repo](https://github.com/RedVelvet-Team/IMovie) |
+| **[ClothingSuggesterApp]** | [Repo](https://github.com/Abanoub-Nagy/ClothingSuggesterApp) |
 
 
 ---
