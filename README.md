@@ -57,7 +57,6 @@
 | **[Project Name]** | Kotlin, Jetpack Compose, Retrofit | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/[repo-name]) |
 | **[Project Name]** | Java, Room, Firebase | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/[repo-name]) |
 
-> *Replace `[Project Name]`, `[repo-name]`, and `[Demo]` with your actual project details. Add more rows as needed!*
 
 ---
 
