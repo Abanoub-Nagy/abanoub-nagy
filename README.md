@@ -20,6 +20,8 @@
 
 ---
 
+
+
 ## ⚡ Tech Stack
 - **Languages**: Kotlin, Java, XML
 - **Android Frameworks**: Jetpack Compose, ViewModel, LiveData, Navigation, WorkManager
@@ -30,87 +32,56 @@
 - **Others**: REST APIs, Material Design, GPS Integration, Offline Caching
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?&style=for-the-badge&logo=java&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?&style=for-the-badge&logo=android&logoColor=white" alt="Android" />
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?&style=for-the-badge&logo=android&logoColor=white" alt="Jetpack Compose" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?&style=for-the-badge&logo=android-studio&logoColor=white" alt="Android Studio" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?&style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
-  <img src="https://img.shields.io/badge/Git-F05032?&style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
 ---
 
-## 🌟 GitHub Highlights
+### 🌟 GitHub Highlights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Nagy&show_icons=true&theme=tokyonight&hide_border=true" alt="Abanoub's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abanoub-Nagy&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Abanoub-Nagy&show_icons=true&theme=radical" alt="Abanoub's GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abanoub-Nagy&theme=radical" alt="GitHub Streak" />
 </p>
 
+---
+
+### 🎯 Featured Projects
+
+| Project | Tech Stack | Live Demo / Repository |
+|---------|------------|------------------------|
+| **[Project Name]** | Kotlin, Jetpack Compose, Retrofit | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/[repo-name]) |
+| **[Project Name]** | Java, Room, Firebase | [Demo](#) / [Repo](https://github.com/Abanoub-Nagy/[repo-name]) |
+
+> *Replace `[Project Name]`, `[repo-name]`, and `[Demo]` with your actual project details. Add more rows as needed!*
+
+---
+
+### 💌 Let's Connect
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abanoub-Nagy&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://www.linkedin.com/in/abanoub-nagy/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Abanoub-Nagy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:abanoubnagy24@gmail.com.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
 
-## 🎯 Featured Projects
-
-| Project | Tech Stack | Description | Repository | Demo |
-|---------|------------|-------------|------------|------|
-| **ClothesSuggesterApp** | Kotlin, Jetpack Compose, Retrofit, Clean Architecture | A CLI-based app suggesting clothing based on weather data from Open-Meteo API, built with MVI and SOLID principles. | [Repo](https://github.com/Abanoub-Nagy/ClothesSuggesterApp) | [Demo](#) |
-| **PlanMate** | Kotlin, MongoDB, Coroutines, TDD | A task management app with user roles, dynamic states, and audit logging, using Clean Architecture and MongoDB. | [Repo](https://github.com/Abanoub-Nagy/PlanMate) | [Demo](#) |
-| **WeatherTracker** | Jetpack Compose, MVI, GPS, REST API | A mobile app displaying current and 5-day weather forecasts with offline caching, built without third-party libraries. | [Repo](https://github.com/Abanoub-Nagy/WeatherTracker) | [Demo](#) |
-
-> *Note*: Replace `[Demo]` links with actual Google Play Store links or video demos. Update repository links if names differ. Add more projects to showcase your work!
+### 👨‍💻 Coding Stats
+<p align="center">
+  <img src="https://wakatime.com/badge/user/[your-wakatime-id].svg" alt="WakaTime Stats" />
+</p>
 
 ---
 
-## 💻 Code Snippets
-Here’s a glimpse of my Kotlin code for functional programming, inspired by my [LinkedIn post](https://www.linkedin.com/in/abanoub-nagy/) on pure functions:
+### 👀 Visitor Count
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Nagy.Abanoub-Nagy" alt="Visitor Count" />
+</p>
 
-kotlin
-// Pure function for calculating clothing suggestion based on weather
-fun suggestClothing(temperature: Double, isRaining: Boolean): String {
-    return when {
-        temperature < 10 -> "Wear a heavy jacket${if (isRaining) " and bring an umbrella" else ""}"
-        temperature < 20 -> "A light sweater${if (isRaining) " and waterproof shoes" else ""}"
-        else -> "T-shirt and shorts${if (isRaining) " with a raincoat" else ""}"
-    }
-}
-
-Check out my repositories for more clean, functional code! 🛠️
-
-💌 Let's Connect
-
-  
-  
-  
-  
-
-
-
-👨‍💻 Coding Stats
-
-  
-
-
-
-Replace [your-wakatime-id] with your WakaTime ID or remove this section if not applicable.
-
-
-🏆 Achievements
-
-🖋️ Co-authored an article on functional programming in Kotlin with the Cupcake Team, shared on LinkedIn.
-🌟 Contributed to open-source Android projects, focusing on clean code and modern architectures.
-💡 Built apps like ClothesSuggesterApp and PlanMate, showcasing expertise in Kotlin and Jetpack Compose.
-
-
-👀 Visitor Count
-
-  
-
-
-
-
-  Built with 💚 by Abanoub Nagy Azmy | Let's code the future together! 🚀
-
-```
+---
+<p align="center">
+  <i>Built with 💖 by Abanoub Nagy Azmy</i>
+</p>
