@@ -72,13 +72,6 @@
 </p>
 
 ---
-
-### 👀 Visitor Count
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Abanoub-Nagy.Abanoub-Nagy" alt="Visitor Count" />
-</p>
-
----
 <p align="center">
   <i>Built with 💖 by Abanoub Nagy Azmy</i>
 </p>
